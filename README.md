@@ -143,7 +143,7 @@ Content-Type: application/json
 ## 👋 Contato
 Se quiser trocar uma ideia ou dar feedbacks:
 
-- [LinkedIn - Paulo](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn - Paulo](https://www.linkedin.com/in/pjoliveira)
 
 
 ---
