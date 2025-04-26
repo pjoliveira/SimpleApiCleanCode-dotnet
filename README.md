@@ -20,9 +20,9 @@ O projeto é dividido em fases evolutivas:
 
 ```
 SimpleApiCleanCode-dotnet
-├── 01-WebAPI               -> Estrutura básica da API REST
+├── 01-WebAPI       -> Estrutura básica da API REST
 ├── 02-WebAPI-Login -> Adiciona autenticação simples (login)
-├── 03-WebAPI-JWT          -> Proteção de rotas com autenticação JWT
+├── 03-WebAPI-JWT   -> Proteção de rotas com autenticação JWT
 ```
 
 Dentro de cada pasta, você encontrará o projeto completo daquela fase.
@@ -143,8 +143,8 @@ Content-Type: application/json
 ## 👋 Contato
 Se quiser trocar uma ideia ou dar feedbacks:
 
-- [LinkedIn - Paulo](https://www.linkedin.com/in/seu-perfil)
-- Email: seuemail@dominio.com
+- [LinkedIn - Paulo](https://www.linkedin.com/in/pjoliveira)
+
 
 ---
 
