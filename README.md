@@ -150,4 +150,3 @@ Se quiser trocar uma ideia ou dar feedbacks:
 
 ## 📅 Licença
 Este projeto é apenas para fins de estudo. Sem restrições de uso.
-
